@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo -e "Teste de repositorio 01"
+echo -e "Teste de repositorio 02"
